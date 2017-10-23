@@ -1,0 +1,575 @@
+body {
+	margin: 0px;
+	padding: 0px;	
+	
+}
+
+
+.first img {
+	width: 100%;
+	height: 300px
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+	
+
+}
+
+.intro_image {
+	position: relative;
+
+}
+.logo {
+	position: absolute;
+	top: 100%;
+	background: white;
+	background-color: rgba(255, 255, 255, 0.5);
+	height: 100px;
+	width: 100%;
+	left: 0;
+	top: 0;
+	margin-bottom:-100px;
+}
+.logo h1 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size: 50px;
+	margin-bottom:-20px;
+	margin-top: -5px;
+
+	
+}
+.logo p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size: 20px;
+
+}
+/*.facebook {
+	position: absolute;
+	bottom: 5px;
+	left: 0px;
+	height: 150px;
+	width: 32%;
+	background: white;
+	display: inline-block;
+	background: #2e83b0;
+	padding-left: 30px;
+	margin-left: 0px;
+	background: #FFFB97;
+	background: #2e83b0;
+	opacity: 0.5;
+	-webkit-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+    -moz-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+    box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+	
+}*/
+/*.facebook h1 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;*/
+
+
+
+.facebook {
+	position: absolute;
+	top: 30px;
+	right: 100px;
+
+}
+
+.facebook_image img {
+	height: 35px;
+	width: 35px;
+	border-radius: 20%;
+	
+}
+.instagram {
+	position: absolute;
+	top: -5px;
+	right: -75px;
+}
+
+.insta_image img {
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
+/*.donate {
+	position: absolute;
+	bottom: 5px;
+	left: 34.25%;
+	height: 150px;
+	width: 33.85%;
+	background: black;
+	display: inline-block;
+	background: #2e83b0;
+	opacity: 0.5;
+	-webkit-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+    -moz-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+    box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+	
+
+}
+.instagram {
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+	height: 150px;
+	width: 32%;
+	background: yellow;
+	display: inline-block;
+	margin-right: 0px;
+	opacity: 0.5;
+	background: #2e83b0;
+	-webkit-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+    -moz-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+    box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
+
+
+}
+.instagram h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: black;
+	font-size: 20px;
+	padding-left: 20px;
+}
+*/
+/*.blurb {
+	height: 75px;
+	width: 125px;
+	position: absolute;
+	bottom: 150px;
+	right: 150px;
+	background: white;
+	background-color: rgba(255, 255, 255, 0.5);
+}*/
+/*.blurb p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+}*/
+
+.donate {
+	height: 300px;
+	width: 500px;
+	position: absolute;
+	top: 450px;
+	right: 500px;
+
+}
+.donate h1 {
+	font-size: 70px;
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+.donate p {
+	color: white;
+	font-size: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-top: -30px;
+}
+.donate_button {
+	height: 70px;
+	width: 200px;
+	position: absolute;
+	top: 660px;
+	right: 790px;
+	background: #2e83b0;
+	border: 3px solid white;
+
+}
+
+.donate_button:hover {
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.donate_button ul {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	margin-left: -6px;
+	margin-top: 15px;
+
+}
+
+
+.about {
+	height: 1100px;
+	width: 100%;
+	color:;
+	position: relative;
+}
+.about_title {
+	background: #2e83b0;
+	position: absolute;
+	left: 42%;
+
+}
+.about_title h1 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+	position: absolute;
+	top: 100px;
+	width: 300px;
+	font-weight: bold;
+
+
+}
+
+.mission_statement {
+	display: inline-block;
+	height: 1000px;
+	width: 60%;
+	background: white;
+	position: absolute;
+	top: 250px;
+	left: 20%;
+	
+	background: white;
+	opacity: 0.5;
+	font-size: 20px;
+
+}
+.mission_statement p {
+	padding-left: 20px;
+	padding right: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+}
+
+.video_desc {
+	position: absolute;
+	top: 800px;
+	left: 31%;
+	width: 500px;
+	height: 215px;
+	background: white;
+	margin-top: 30px;
+	margin-bottom: 100px;
+
+}
+
+.video_desc h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 25px;
+	color: black;
+	text-align: center;
+}
+
+.video_desc p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+	color: black;
+	text-align: center;
+	
+}
+.video_player {
+	border: 1px solid #1D740C;
+    height: 315px;
+    width:560px;
+    padding: 0px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    position: absolute;
+    top: 500px;
+    left: 28.5%;
+    display: inline-block;
+    box-shadow: 10px 10px 5px #888888;
+    margin: auto;
+
+
+
+}
+.mission_pic img {
+	height: 300px;
+	float: center;
+	-webkit-box-shadow: 0px -3px 57px 14px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -3px 57px 14px rgba(0,0,0,0.75);
+    box-shadow: 0px -3px 57px 14px rgba(0,0,0,0.75);
+
+}
+.events {
+	height: 800px;
+	width: 100%;
+	background: #f2f4f5;
+	position: relative;
+}
+.events_title {
+	background: #f2f4f5;
+	position: absolute;
+	left: 46%;
+	top: 50px;
+}
+
+.events_title h1 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+
+}
+.facebook_events {
+	display: inline-block;
+	background: white;
+	position: absolute;
+	top: 250px;
+	left: 150px;
+	background-color: #f2f4f5;
+	font-size: 20px;
+	text-align: center;
+}
+
+.link1 {
+	position: absolute;
+	height: 410px;
+	width: 300px;
+	top: 350px;
+	left: -75px;
+}
+
+.link1 a {
+	padding-left: -70px;
+	padding-right: -70px;
+}
+
+.link2 {
+	position: absolute;
+	height: 410px;
+	width: 300px;
+	top: 350px;
+	left: 365px;
+}
+
+.link3 {
+	position: absolute;
+	height: 410px;
+	width: 400px;
+	top: 350px;
+	left: 720px;
+}
+
+.button {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	padding: 20px 40px;
+	background-color: #2e83b0;
+	border: 3px solid white;
+	text-transform: uppercase;
+	color: white;
+	text-decoration: none;
+}
+
+.button:hover {
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.collage{
+	position: absolute;
+	height: 600px;
+	width: 50%;
+}
+
+
+.picture1 img{
+	height: 300px;
+	width: 350px;
+	position: absolute;
+	top: 250px;
+	left: 50px;
+}
+
+.picture2 img{
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	top: 250px;
+	left: 500px;
+}
+
+.picture3 img{
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	top: 250px;
+	right: -600px;
+}
+
+.donate_div {
+	height: 400px;
+	width: 100%;
+	background: #2e83b0;
+	position: relative;
+}
+.donate_div img {
+	height: 400px;
+	width: 100%;
+	filter: brightness(25%);
+
+}
+
+
+.donate_title {
+	position: absolute;
+	left: 45%;
+	top: 50px;
+}
+
+.donate_title h1 {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+	
+}
+
+.donate_desc p {
+	width: 60%;
+	position: absolute;
+	top: 150px;
+	left: 20%;
+	color: white;
+	font-size: 20px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align:center;
+}
+
+.team {
+	height: 700px;
+	width: 100%;
+	background: #f2f4f5;
+	position: relative;
+}
+
+.paypal_button {
+	height: 50px;
+	width:200px;
+	position: absolute;
+	top: 250px;
+	left: 42%;
+	background: yellow;
+	padding-top: -15px;
+	padding-bottom: 10px;
+	border: 3px solid white;
+
+}
+
+.paypal_button:hover {
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: white;
+	color: yellow;
+	border: 3px solid black;
+	cursor: pointer;
+}
+.paypal_button ul {
+	color: black;
+	text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 30px;
+	margin-top: 10px;
+	padding-left: 28px;
+
+}
+
+.contact {
+	height: 800px;
+	width: 100%;
+	position: relative;
+}
+.contact_title {
+	background: #2e83b0;
+	position: absolute;
+	left: 42%;
+
+}
+.contact_title h1 {
+	color: black;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 50px;
+	position: absolute;
+	top: 75px;
+	width: 300px;
+	font-weight: bold;
+}
+
+.team_image img {
+	height: 400px;
+	width: 40%;
+	position: absolute;
+	top: 250px;
+	left: 60px;
+	padding-left: 20px;
+	padding right: 20px;
+}
+.container {
+	height: 500px;
+	width: 30%;
+	position: absolute;
+	right: 140px;
+	top: 200px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.container h2 {
+	margin-bottom: 20px;
+	color: #474E69;
+}
+
+/* ===========================
+   ====== Contact Form ======= 
+   =========================== */
+
+input, textarea {
+	padding: 10px;
+	border: 1px solid #E5E5E5;
+	width: 200px;
+	color: #999999;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;		
+}
+
+textarea {
+	width: 400px;
+	height: 150px;
+	max-width: 400px;
+	line-height: 18px;
+}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus {
+	border-color: 1px solid #C9C9C9;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;	
+}
+
+.form label {
+	margin-left: 10px;
+	color: #999999;
+}
+
+/* ===========================
+   ====== Submit Button ====== 
+   =========================== */
+
+.submit input {
+	width: 100px; 
+	height: 40px;
+	background-color: #474E69; 
+	color: #FFF;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;	
+	font-family: 'Open Sans Condensed', sans-serif;	
+}
+.submit:hover {
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: white;
+
+}
