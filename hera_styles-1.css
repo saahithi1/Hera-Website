@@ -110,7 +110,6 @@ body {
     -moz-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
     box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
 	
-
 }
 .instagram {
 	position: absolute;
@@ -126,8 +125,6 @@ body {
 	-webkit-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
     -moz-box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
     box-shadow: 0px -33px 40px 12px rgba(0,0,0,0.67);
-
-
 }
 .instagram h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -177,7 +174,7 @@ body {
 	position: absolute;
 	top: 660px;
 	right: 790px;
-	background: #2e83b0;
+	background: #75afed;
 	border: 3px solid white;
 
 }
@@ -199,7 +196,7 @@ body {
 
 
 .about {
-	height: 1100px;
+	height: 1065px;
 	width: 100%;
 	color:;
 	position: relative;
@@ -215,7 +212,7 @@ body {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 50px;
 	position: absolute;
-	top: 100px;
+	top: 75px;
 	width: 300px;
 	font-weight: bold;
 
@@ -228,7 +225,7 @@ body {
 	width: 60%;
 	background: white;
 	position: absolute;
-	top: 250px;
+	top: 225px;
 	left: 20%;
 	
 	background: white;
@@ -245,7 +242,7 @@ body {
 
 .video_desc {
 	position: absolute;
-	top: 800px;
+	top: 775px;
 	left: 31%;
 	width: 500px;
 	height: 215px;
@@ -277,7 +274,7 @@ body {
     margin-left: 25px;
     margin-bottom: 25px;
     position: absolute;
-    top: 500px;
+    top: 475px;
     left: 28.5%;
     display: inline-block;
     box-shadow: 10px 10px 5px #888888;
@@ -295,7 +292,7 @@ body {
 
 }
 .events {
-	height: 800px;
+	height: 860px;
 	width: 100%;
 	background: #f2f4f5;
 	position: relative;
@@ -304,7 +301,7 @@ body {
 	background: #f2f4f5;
 	position: absolute;
 	left: 46%;
-	top: 50px;
+	top: 75px;
 }
 
 .events_title h1 {
@@ -317,7 +314,7 @@ body {
 	display: inline-block;
 	background: white;
 	position: absolute;
-	top: 250px;
+	top: 275px;
 	left: 150px;
 	background-color: #f2f4f5;
 	font-size: 20px;
@@ -328,7 +325,7 @@ body {
 	position: absolute;
 	height: 410px;
 	width: 300px;
-	top: 350px;
+	top: 375px;
 	left: -75px;
 }
 
@@ -337,19 +334,19 @@ body {
 	padding-right: -70px;
 }
 
-.link2 {
-	position: absolute;
-	height: 410px;
-	width: 300px;
-	top: 350px;
-	left: 365px;
-}
-
 .link3 {
 	position: absolute;
 	height: 410px;
 	width: 400px;
-	top: 350px;
+	top: 375px;
+	left: 310px;
+}
+
+.link2 {
+	position: absolute;
+	height: 410px;
+	width: 400px;
+	top: 375px;
 	left: 720px;
 }
 
@@ -357,7 +354,7 @@ body {
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 20px;
 	padding: 20px 40px;
-	background-color: #2e83b0;
+	background-color: #75afed;
 	border: 3px solid white;
 	text-transform: uppercase;
 	color: white;
@@ -381,34 +378,34 @@ body {
 	height: 300px;
 	width: 350px;
 	position: absolute;
-	top: 250px;
+	top: 275px;
 	left: 50px;
-}
-
-.picture2 img{
-	height: 50%;
-	width: 50%;
-	position: absolute;
-	top: 250px;
-	left: 500px;
 }
 
 .picture3 img{
 	height: 50%;
 	width: 50%;
 	position: absolute;
-	top: 250px;
+	top: 275px;
+	left: 500px;
+}
+
+.picture2 img{
+	height: 50%;
+	width: 50%;
+	position: absolute;
+	top: 275px;
 	right: -600px;
 }
 
 .donate_div {
-	height: 400px;
+	height: 425px;
 	width: 100%;
 	background: #2e83b0;
 	position: relative;
 }
 .donate_div img {
-	height: 400px;
+	height: 425px;
 	width: 100%;
 	filter: brightness(25%);
 
@@ -451,8 +448,8 @@ body {
 	width:200px;
 	position: absolute;
 	top: 250px;
-	left: 42%;
-	background: yellow;
+	left: 42.5%;
+	background: #f9ee6a;
 	padding-top: -15px;
 	padding-bottom: 10px;
 	border: 3px solid white;
@@ -511,7 +508,7 @@ body {
 	width: 30%;
 	position: absolute;
 	right: 140px;
-	top: 200px;
+	top: 230px;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
